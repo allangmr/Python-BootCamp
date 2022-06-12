@@ -7,4 +7,3 @@ This is a simple Python/Flask application intended to provide a working example 
 ## How To Use This
 
 1. Run `python index.py`
-2. Navigate to http://localhost:7000 in your browser
