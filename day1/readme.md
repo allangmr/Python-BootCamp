@@ -1,7 +1,5 @@
 # Example Band Name App - Python
 
-https://developer.uber.com/
-
 ## What Is This?
 
 This is a simple Python/Flask application intended to provide a working example of Create a new band name.
